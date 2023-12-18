@@ -12,7 +12,6 @@ body{
 body::before{
     content: '';
     background: #293241;
-    width: 1440px;
     height: 465px;
     position: absolute;
     width: 100%;
@@ -55,7 +54,7 @@ header p {
     justify-content: center;
     align-items: center;
     width: 750px;
-    height: 133px;
+    height: 132px;
 }
 
 
