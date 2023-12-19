@@ -23,7 +23,7 @@ body::before{
 header {
     text-align: center;
     color: #fff;
-    margin: 114px auto 0;
+    margin: 114px auto;
 }
 header h1{
     font-family: var(--font-staatliches);
@@ -62,12 +62,12 @@ header p {
 #page {
     height: 1075px;
     width: 750px;
-    margin:  auto;
+    margin: auto;
 }
 form {
     background: #fff;
-    padding: 31px 64px;
-    margin: 0 auto;
+    padding: 10px 64px;
+    margin:  auto;
 
 }
 fieldset {
